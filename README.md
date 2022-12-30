@@ -8,7 +8,7 @@
 
 <strong>❯❯:hammer_and_wrench: Languages & Tools:</strong>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="30" height="30"/>&nbsp;
 </div>
