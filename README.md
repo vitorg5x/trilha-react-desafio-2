@@ -3,7 +3,7 @@
 <strong>❯❯:zap: Challenge:</strong>
 - Create a wiki to save Github's repositories
 
-<strong>❯❯:compass: Goal:</strong>
+<strong>❯❯:compass: Description:</strong>
 - Use Github's API to list public repositories from URL.
 
 <strong>❯❯:hammer_and_wrench: Languages & Tools:</strong>
